@@ -1,6 +1,9 @@
 body {
     background-color: #8cc152;
 }
+textarea {
+    padding: 10px;
+}
 .btn-file {
     position: relative;
     overflow: hidden;
